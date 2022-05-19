@@ -1,118 +1,124 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Welcome",
+    "description": "This is my about me section (res primary in public)",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "NBA STAT TRACKER",
+      "startDate": "3/28/2022",
+      "description": "NBA STAT TRACKER is a full-stack application that was created using the MERN stack. This app allows you to keep track of the top 8 teams in each respective conference as well as the stats of the starting 5 players for each team. NBA STAT TRACKER also features full CRUD functionality allowing the user to add, create, update and delete a specific team from a conference, or a certain player from a specific team.",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "https://github.com/sbandy9210/NBA-STAT-TRACKER",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "MyLieu",
+      "startDate": "4/22/2022",
+      "description": "MyLieu is a social publishing platform that enables users to create, read, and share diverse stories and insights that takes inspiration from popular blog sites such as medium and reddit. Mylieu is a full stack app that features popular articles and blog posts on a wide variety of topics and allows registered users to like posts, leave comments, or even create their own blog post on whatever they like!",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com/sbandy9210/MyLieu-Frontend",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "NASA Liquor Store",
+      "startDate": "5/5/2022",
+      "description": "NASA Liquor Store is a full-stack application that uses the PERN stack. This application allows the store owner to keep track of their store inventory as well as create orders for vendors to view so they know what products to bring to the store",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com/sbandy9210/Nasa-Liqour-Store",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "General Assembly",
+      "title": "Software Engineering Immersive Student",
+      "years": "02.2022 - 05.2022",
+      "mainTech": [
+        "React"
+      ],
+      "technologies": [
+        "CSS",
+        "Django",
+        "Express",
+        "Github",
+        "HTML",
+        "JavaScript",
+        "JWT",
+        "Node.js",
+        "MongoDb",
+        "Mongoose",
+        "Postgresql",
+        "Python",
+        "Vue.js",
+        "React-Redux",
+        "React"
+      ]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Intern",
+      "years": "01.2018 - 09.2019",
+      "mainTech": [
+        "Angular 7/8"
+      ],
+      "technologies": [
+        "RxJS",
+        "Django",
+        "PHP",
+        "JavaScript",
+        "DHTMLX Gantt"
+      ]
+    }
+  ]
+}
