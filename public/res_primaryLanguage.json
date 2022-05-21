@@ -41,7 +41,7 @@
     {
       "title": "MyLieu",
       "startDate": "4/22/2022",
-      "description": "MyLieu is a social publishing platform that enables users to create, read, and share diverse stories and insights that takes inspiration from popular blog sites such as medium and reddit. Mylieu is a full stack app that features popular articles and blog posts on a wide variety of topics and allows registered users to like posts, leave comments, or even create their own blog post on whatever they like!",
+      "description": "MyLieu was a group project created by myself and three other students in my General Assembly cohort, it is a social publishing platform that enables users to create, read, and share diverse stories and insights that takes inspiration from popular blog sites such as medium and reddit. Mylieu is a full stack app that features popular articles and blog posts on a wide variety of topics and allows registered users to like posts, leave comments, or even create their own blog post on whatever they like!",
       "images": [
         "images/portfolio/myLieu/myLieuhome.jpg",
         "images/portfolio/myLieu/create-post.gif"
