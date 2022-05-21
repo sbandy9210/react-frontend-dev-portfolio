@@ -1,7 +1,7 @@
 {
   "basic_info": {
-    "description_header": "Welcome",
-    "description": "This is my about me section (res primary in public)",
+    "description_header": "Welcome!",
+    "description": "I am a full-stack developer and a unique thinker who enjoys solving problems. In my spare time, I enjoy studying and playing poker which helps keep my mind sharp and always thinking outside of the box. I offer companies a new perspective on solving complex problems.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -15,22 +15,26 @@
       "startDate": "3/28/2022",
       "description": "NBA STAT TRACKER is a full-stack application that was created using the MERN stack. This app allows you to keep track of the top 8 teams in each respective conference as well as the stats of the starting 5 players for each team. NBA STAT TRACKER also features full CRUD functionality allowing the user to add, create, update and delete a specific team from a conference, or a certain player from a specific team.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/nba/soon.jpg",
+        ""
       ],
       "url": "https://github.com/sbandy9210/NBA-STAT-TRACKER",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-express-original",
+          "name": "Express"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
         }
       ]
     },
@@ -39,18 +43,26 @@
       "startDate": "4/22/2022",
       "description": "MyLieu is a social publishing platform that enables users to create, read, and share diverse stories and insights that takes inspiration from popular blog sites such as medium and reddit. Mylieu is a full stack app that features popular articles and blog posts on a wide variety of topics and allows registered users to like posts, leave comments, or even create their own blog post on whatever they like!",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/myLieu/myLieuhome.jpg",
+        "images/portfolio/myLieu/create-post.gif"
       ],
-      "url": "https://github.com/sbandy9210/MyLieu-Frontend",
+      "url": "https://mylieu.herokuapp.com/",
       "technologies": [
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "Postgresql"
+        },
         {
           "class": "devicon-react-original",
           "name": "React"
         },
         {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
+          "class": "devicon-express-original",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
         }
       ]
     },
@@ -59,22 +71,26 @@
       "startDate": "5/5/2022",
       "description": "NASA Liquor Store is a full-stack application that uses the PERN stack. This application allows the store owner to keep track of their store inventory as well as create orders for vendors to view so they know what products to bring to the store",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/nasa/soon.jpg",
+        ""
       ],
       "url": "https://github.com/sbandy9210/Nasa-Liqour-Store",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-postgresql-plain",
+          "name": "Postgresql"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-react-original",
+          "name": "React"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-express-original",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
         }
       ]
     }
@@ -104,21 +120,7 @@
         "React-Redux",
         "React"
       ]
-    },
-    {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
-      "mainTech": [
-        "Angular 7/8"
-      ],
-      "technologies": [
-        "RxJS",
-        "Django",
-        "PHP",
-        "JavaScript",
-        "DHTMLX Gantt"
-      ]
     }
+    
   ]
 }
